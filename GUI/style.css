@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  background-color: #f88046;
+}
+
+.team-name {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.dashboard {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.problem-statement {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-right: 20px;
+}
+
+.new {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #f88046;
+}
+
+th {
+  background-color: #f88046;
+}
+
+.header-cell {
+  background-color: #f88046;
+  font-weight: bold;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+}
+
+.image-text {
+  margin-left: 10px;
+}

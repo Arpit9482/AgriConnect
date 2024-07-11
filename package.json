@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "install": "^0.13.0",
+    "mongoose": "^8.5.0"
+  }
+}
